@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="sass-stdlib">
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Titanium2.0.1" type="javaScript">
+      <CLASSES>
+        <root url="file:///Library/Javascript/navinpeiris-jsca2js-17bdeb2/titanium-js/titanium-mobile-2.0.1.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
+
