@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="ScrollWatcher" type="CoffeeScript" />
@@ -7,9 +7,10 @@
       <mapping ext="hx" type="HAML" />
       <mapping ext="jp" type="JavaScript" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="rollover" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern="pf_servicescss" type="PLAIN_TEXT" />
       <mapping pattern="tabnavigation" type="PLAIN_TEXT" />
+      <mapping pattern="rollover" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="htc" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="SCSS" />
