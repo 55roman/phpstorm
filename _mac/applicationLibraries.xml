@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="libraryTable">
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="sass-stdlib">
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
@@ -15,4 +18,3 @@
     </library>
   </component>
 </application>
-
