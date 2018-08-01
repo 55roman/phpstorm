@@ -17,6 +17,8 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
