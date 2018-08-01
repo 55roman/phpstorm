@@ -1,5 +1,11 @@
-<code_scheme name="Default (2)">
+<code_scheme name="Default (2)" version="173">
   <option name="RIGHT_MARGIN" value="999" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings>
+    <option name="INDENT_CHAINED_CALLS" value="false" />
+  </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
