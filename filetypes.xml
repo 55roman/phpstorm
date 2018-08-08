@@ -4,17 +4,18 @@
     <extensionMap>
       <mapping pattern="ScrollWatcher" type="CoffeeScript" />
       <mapping pattern="ScrollCnt" type="CoffeeScript" />
-      <mapping ext="hx" type="HAML" />
       <mapping ext="jp" type="JavaScript" />
+      <mapping pattern="rollover" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
-      <mapping pattern="pf_servicescss" type="PLAIN_TEXT" />
+      <mapping pattern="CalcuratorAction.js" type="PLAIN_TEXT" />
       <mapping pattern="tabnavigation" type="PLAIN_TEXT" />
-      <mapping pattern="rollover" type="PLAIN_TEXT" />
+      <mapping pattern="pf_servicescss" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="htc" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="SCSS" />
       <mapping pattern="cmp_common" type="SCSS" />
+      <mapping ext="hx" type="HAML" />
     </extensionMap>
   </component>
 </application>
