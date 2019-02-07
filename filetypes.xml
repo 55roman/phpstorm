@@ -8,6 +8,7 @@
       <mapping pattern="rollover" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern="FeatureLoader.js" type="PLAIN_TEXT" />
       <mapping pattern="CalcuratorAction.js" type="PLAIN_TEXT" />
       <mapping pattern="tabnavigation" type="PLAIN_TEXT" />
       <mapping pattern="pf_servicescss" type="PLAIN_TEXT" />
