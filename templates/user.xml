@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="mqpc" value="@include mq-pc {&#10;}" description="mediaquery pc" toReformat="false" toShortenFQNames="true">
+  <template name="mqpc" value="@include mq-pc {&#10;&#10;}" description="mediaquery pc" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
@@ -18,7 +18,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="mqsp" value="@include mq-sp {&#10;}" description="mediaquery sp" toReformat="false" toShortenFQNames="true">
+  <template name="mqsp" value="@include mq-sp {&#10;&#10;}" description="mediaquery sp" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="true" />
     </context>
