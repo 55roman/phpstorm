@@ -23,4 +23,5 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="@media" value="@media screen, (max-width: 768px){&#10;}" description="media query plane" toReformat="false" toShortenFQNames="true" />
 </templateSet>
