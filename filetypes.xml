@@ -12,6 +12,7 @@
       <mapping pattern="CalcuratorAction.js" type="PLAIN_TEXT" />
       <mapping pattern="tabnavigation" type="PLAIN_TEXT" />
       <mapping pattern="pf_servicescss" type="PLAIN_TEXT" />
+      <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="htc" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="SCSS" />
