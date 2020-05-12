@@ -1,4 +1,13 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="200" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="4" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Monospaced" />
     <option name="LINE_SPACING" value="1.1" />
@@ -26,6 +35,5 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
