@@ -15,9 +15,11 @@
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="mixins" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="htc" type="PLAIN_TEXT" />
       <mapping pattern="_mixins" type="SCSS" />
       <mapping pattern="cmp_common" type="SCSS" />
+      <removed_mapping ext="scss" type="SCSS" />
       <mapping ext="hx" type="HAML" />
     </extensionMap>
   </component>
