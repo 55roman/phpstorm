@@ -17,8 +17,8 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.php</mask>
+    <mask>*.html</mask>
     <mask>*.scss</mask>
   </component>
 </application>
